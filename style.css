@@ -1,7 +1,7 @@
 body{
 			background: #222222;
 			font-family: 'Big Shoulders Display', cursive;
-			font-size: 30px;
+			font-size: 50px;
 			color: #FFFFFF;
 		}
 
@@ -15,7 +15,8 @@ body{
 
 		.Welcome {
 			text-align: center;
-			font-size: 50px;
+			font-size: 100px;
+      line-height: 0px;
 		}
 
 		.ObamaImage {
@@ -26,10 +27,26 @@ body{
 
 		.maybetest {
 			text-align: center;
-			font-size: 40px;
+			font-size: 70px;
+      margin: 0px;
+      border: 0px;
+      padding: 0px;
 		}
     .websitefor {
       text-align: center;
       font-size: 100px;
+    }
+    .jk{
+      font-size: 30px;
+      padding-bottom: 20px;
+      text-align: center;
+      line-height: 0px;
+    }
+    #helloButton{
+      float: left;
+      color: #FFFFFF;
+      background-color: black;
+      height: 100%;
+      font-size: 75px;
     }
     
