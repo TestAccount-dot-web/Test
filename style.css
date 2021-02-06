@@ -1,0 +1,35 @@
+body{
+			background: #222222;
+			font-family: 'Big Shoulders Display', cursive;
+			font-size: 30px;
+			color: #FFFFFF;
+		}
+
+		.Title {
+			text-align: center;
+			background: #C4DDE4;
+			font-family: 'Bodoni Moda', serif;
+			font-size: 75px;
+			color: #0B2161;
+		}
+
+		.Welcome {
+			text-align: center;
+			font-size: 50px;
+		}
+
+		.ObamaImage {
+			padding-left: 25px;
+			height: 200px;
+			opacity: 1;
+		}
+
+		.maybetest {
+			text-align: center;
+			font-size: 40px;
+		}
+    .websitefor {
+      text-align: center;
+      font-size: 100px;
+    }
+    
